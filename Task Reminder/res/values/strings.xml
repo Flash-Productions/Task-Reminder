@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Task Reminder</string>
+    <string name="no_reminders">No Reminders Set</string>
+
+
+    <string name="title">Title</string>
+    <string name="body">Description</string>
+    <string name="date">Reminder Date</string>
+    <string name="time">Reminder Time</string>
+    <string name="save">Save</string>
+    <string name="menu_add">Add Reminder</string>
+    <string name="menu_delete">Delete Reminder</string>
+    <string name="menu_edit">Edit Reminder</string>
+    <string name="task_saved_msg">Task Saved</string>
+    <string name="notify_new_task_title">A task needs to be reviewed!</string>
+    <string name="notify_new_task_message">Task Reminder</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="back">Back to List</string>
+    <string name="empty_title">You Must Enter a Title</string>
+    <string name="empty_description">You Must Enter a Description</string>
+
+    <!-- Preferences -->
+
+    <string name="pref_category_task_defaults_key">task_default_category</string>
+    <string name="pref_category_task_defaults_title">Task Title Default</string>
+    <string name="pref_task_title_key">default_reminder_title</string>
+    <string name="pref_task_title_dialog_title">Default Reminder Title</string>
+    <string name="pref_task_title_message">The default title for a reminder</string>
+    <string name="pref_task_title_summary">Default title for reminders</string>
+    <string name="pref_task_title_title">Default Reminder Title</string>
+
+    <string name="pref_category_datetime_key">date_time_default_category</string>
+    <string name="pref_category_datetime_title">Date Time Defaults</string>
+    <string name="pref_default_time_from_now_key">time_from_now_default</string>
+    <string name="pref_default_time_from_now_dialog_title">Time From Now</string>
+    <string name="pref_default_time_from_now_message">The default time from now (in minutes) that a new reminder should
+        be set to
+    </string>
+    <string name="pref_default_time_from_now_summary">Sets the default time for a reminder</string>
+    <string name="pref_default_time_from_now_title">Default Reminder Time</string>
+    <string name="menu_settings">Settings</string>
+
+    <string name="pref_category_theme_defaults_key">theme_default_category</string>
+    <string name="pref_category_theme_defaults_title">Color Theme Default</string>
+    <string name="pref_default_theme_key">theme_default</string>
+    <string name="pref_default_theme_dialog_title">Color Theme</string>
+    <string name="pref_default_theme_message">The default color theme for the application</string>
+    <string name="pref_default_theme_summary">Sets the default Color Scheme</string>
+    <string name="pref_default_theme_title">Default Color Theme</string>
+</resources>
