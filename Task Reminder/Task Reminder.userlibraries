@@ -1,3 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<eclipse-userlibraries />
+<eclipse-userlibraries>
+  <library name="GoogleAdMobAdsSdk">
+    <archive path="C:/Users/Flash/Flash-Productions/Task-Reminder/Task Reminder/libs/GoogleAdMobAdsSdk.jar" />
+  </library>
+  <library name="android-support-v4">
+    <archive path="C:/Users/Flash/Flash-Productions/Task-Reminder/Task Reminder/libs/android-support-v4.jar" />
+  </library>
+</eclipse-userlibraries>
 
